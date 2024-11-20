@@ -1,6 +1,6 @@
-# Alura Plus"
+# Alura Plus
 
-Este é o projeto **Alura Plus**, desenvolvido no curso **Praticando HTML e CSS** da plataforma Alura. Durante o curso, aprendemos conceitos fundamentais de HTML e CSS, com ênfase nas propriedades **CSS Grid**, **grid-template-columns**, a reutilização de estilos com classes, e o uso da pseudo-classe **:active**.
+Este é o projeto Alura Plus, desenvolvido no curso **Praticando HTML e CSS** da plataforma Alura. Durante o curso, aprendemos conceitos fundamentais de HTML e CSS, com ênfase nas propriedades **CSS Grid**, **grid-template-columns**, a reutilização de estilos com classes, e o uso da pseudo-classe **:active**.
 
 ## Sobre
 
@@ -13,9 +13,3 @@ O **Alura Plus** é um projeto de exemplo criado para praticar os conceitos de l
 - Reutilização de estilos através de classes dentro de uma nova section.
 - Aplicação de múltiplas classes em elementos HTML para estilizações adicionais.
 - Uso da pseudo-classe **:active** para melhorar a interatividade.
-
-## Tecnologias Utilizadas
-
-- **HTML5**: Para estruturação da página.
-- **CSS3**: Para estilização e layout com foco em **CSS Grid**.
-- **Pseudo-classe :active**: Para interatividade.
